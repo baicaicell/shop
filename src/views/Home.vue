@@ -7,7 +7,7 @@
       <router-link to="/products" class="btn btn-primary">立即选购</router-link>
     </div>
 
-    <h2 class="page-title">热门商品</h2>
+    <h2 class="page-title">热门商品·</h2>
     <div class="product-grid">
       <ProductCard
         v-for="product in hotProducts"
