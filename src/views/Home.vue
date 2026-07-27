@@ -4,7 +4,7 @@
     <div class="banner">
       <h1>春季大促 全场优惠</h1>
       <p>精选数码、服饰、生活用品，低价好物等你来选</p>
-      <router-link to="/products" class="btn btn-primary">立即选购</router-link>
+      <router-link to="/products" class="btn btn-primary">立即选购----</router-link>
     </div>
 
     <h2 class="page-title">热门商品·</h2>
